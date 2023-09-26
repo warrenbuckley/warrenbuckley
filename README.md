@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on hacking & building things to make lives easier for developers
 - 🌱 I’m always learning & enjoy pulling things apart to understand how things work
 - 💬 Ask me about any of my projects or something related to Umbraco CMS
-- 📫 How to reach me: <a href="https://twitter.com/warrenbuckley">@warrenbuckley</a> on Twitter is best or <a rel="me" href="https://mastodon.online/@warrenbuckley">Mastodon</a>
+- 📫 How to reach me: <a href="https://twitter.com/warrenbuckley">@warrenbuckley</a> on Twitter is best or <a rel="me" href="https://umbracocommunity.social/@warrenbuckley">Mastodon</a>
 
 <!--
 **warrenbuckley/warrenbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
