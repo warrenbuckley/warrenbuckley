@@ -5,6 +5,10 @@
 - 💬 Ask me about any of my projects or something related to Umbraco CMS
 - 📫 How to reach me: <a href="https://twitter.com/warrenbuckley">@warrenbuckley</a> on Twitter is best or <a rel="me" href="https://umbracocommunity.social/@warrenbuckley">Mastodon</a>
 
+
+## Holopin Badges
+[![An image of @warrenbuckley's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warrenbuckley)](https://holopin.io/@warrenbuckley)
+
 <!--
 **warrenbuckley/warrenbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
