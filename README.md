@@ -1,21 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Warren, an Umbraco freelancer and contractor
 
-- 🔭 I’m currently working on hacking & building things to make lives easier for developers
-- 🌱 I’m always learning & enjoy pulling things apart to understand how things work
-- 💬 Ask me about any of my projects or something related to Umbraco CMS
-- 📫 How to reach me: <a rel="me" href="https://umbracocommunity.social/@warrenbuckley">@warrenbuckley@umbracocommunity.social</a> on Mastodon is best
+- 🏆 Nine-time Umbraco MVP, building with Umbraco for 20 years (including 7½ years at Umbraco HQ)
+- 🛠️ I help agencies and in-house teams with [Umbraco upgrades](https://hackmakedo.com/umbraco-upgrades/) (13 to 17 and beyond), Bellissima backoffice extensions with TypeScript & Lit, and extra capacity for .NET teams
+- 🔭 I hack & build things to make lives easier for developers, like [Content Lock](https://github.com/warrenbuckley/Umbraco.Community.ContentLock) for Umbraco and [Compact Log Format Viewer](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) for Serilog logs
+- 💼 Available for hire: [hackmakedo.com](https://hackmakedo.com)
+- 📫 How to reach me: [hackmakedo.com/contact](https://hackmakedo.com/contact/), or <a rel="me" href="https://umbracocommunity.social/@warrenbuckley">@warrenbuckley@umbracocommunity.social</a> on Mastodon
 
-<!--
-**warrenbuckley/warrenbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Latest from the blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
