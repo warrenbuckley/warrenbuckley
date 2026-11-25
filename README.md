@@ -8,4 +8,9 @@
 
 ### 📝 Latest from the blog
 <!-- BLOG-POST-LIST:START -->
+- [Using SignalR, IOptionsMonitor with Umbraco Bellissima for reactive .NET Options](https://hackmakedo.com/blog/using-signalr-ioptionsmonitor-with-umbraco-bellissima-for-reactive-net-options/)
+- [Quick Tip: How to prevent HTML in Umbraco Form fields](https://hackmakedo.com/blog/quick-tip-how-to-prevent-html-in-umbraco-form-fields/)
+- [How to refresh the Umbraco V14+ Bellissima content tree with code](https://hackmakedo.com/blog/how-to-refresh-the-umbraco-v14-bellissima-content-tree-with-code/)
+- [How to Overwrite the Save &amp; Publish button and more in Umbraco V14](https://hackmakedo.com/blog/how-to-overwrite-the-save-publish-button-and-more-in-umbraco-v14/)
+- [Why I Have Still Stuck Around in the Umbraco Community After All These Years](https://hackmakedo.com/blog/why-i-have-still-stuck-around-in-the-umbraco-community-after-all-these-years/)
 <!-- BLOG-POST-LIST:END -->
